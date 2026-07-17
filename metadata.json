@@ -1,0 +1,6 @@
+{
+  "name": "Nepal Road Safety Campaign Hub",
+  "description": "An interactive road safety campaign platform for Nepal. Features an animated high-fidelity simulator showing correct lane discipline (slow vehicles left, overtaking lane clear) and strict speed limit signs, alongside an AI-powered social media poster generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
